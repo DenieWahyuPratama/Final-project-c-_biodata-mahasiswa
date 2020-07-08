@@ -11,7 +11,9 @@ database mysql di phpmyadmin agar data bisa tersimpan sekaligus bisa update data
 Cara run :
 
     1. Agar bisa berjalan pertama import database yang sudah di sediakan
-    2. Pastikan terdapat mysqlclient (untuk visual studio 2010 tambahkan secara manual Mysql.Data.dll di folder -> ....\Program Files (x86)\Reference Assemblies\Microsoft\Framework.NETFramework\v4.0\MySql.Data.dll ) lalu pada common properties di visual studio pilih Add New Reference.. -> .NET -> Cari MySql.Data
+    2. Pastikan terdapat mysqlclient (untuk visual studio 2010 tambahkan secara manual Mysql.Data.dll di folder ->
+    ....\Program Files (x86)\Reference Assemblies\Microsoft\Framework.NETFramework\v4.0\MySql.Data.dll ) lalu pada common properties di visual 
+    studio pilih Add New Reference.. -> .NET -> Cari MySql.Data
     3. Jalankan Program di -> ..\Final Project C++\finalproject\Signup\Debug\Signup.exe
 
 -> Anggota Kelompok
